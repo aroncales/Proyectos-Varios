@@ -1,6 +1,9 @@
-# React + Vite
+# Proyecto 1 | TwitterFollowCard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este es mi primer proyecto que he realizado con React.
+Además es mi primera vez usando GitHub para subir proyectos.
+
+Los inicios siempre fueron complicados, pero una vez en marcha solo queda avanzar...
 
 Currently, two official plugins are available:
 
